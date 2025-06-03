@@ -1,17 +1,11 @@
-## Hi there 👋
-
-Here’s an English version of your Profile README, plus a few ideas to make it even more engaging:
-
----
-
-```md
 # Hi there, I’m Arshia KiaKazemi 👋
 
-**Electrical Engineer (Control) | Python Developer 🐍**
+Electrical Engineer (Control) | Python Developer 🐍
 
 ---
 
-I’m passionate about solving complex problems with code and building real-world applications in Python. As a final-year Electrical Engineering (Control) student, I love exploring new tools, writing clean scripts, and collaborating on open-source projects.
+I’m passionate about solving complex problems with code and building real-world applications in Python. 
+As a final-year Electrical Engineering (Control) student, I love exploring new tools, writing clean scripts, and collaborating on open-source projects.
 
 ### 🔧 Skills & Expertise
 - **Electrical Engineering (Control)**: Control system design, signal processing, MATLAB/Simulink  
@@ -26,8 +20,6 @@ I’m passionate about solving complex problems with code and building real-worl
 ### 📫 How to Reach Me
 - Telegram: [t.me/Arshia_kia1](https://t.me/Arshia_kia1)  
 - Email: [arshiakiakazemy2001@gmail.com](mailto:arshiakiakazemy2001@gmail.com)
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
