@@ -19,7 +19,5 @@ As a final-year Electrical Engineering (Control) student, I love exploring new t
 
 ### 📫 How to Reach Me
 - Telegram: [t.me/Arshia_kia1](https://t.me/Arshia_kia1)  
-- Email: [arshiakiakazemy2001@gmail.com](mailto:arshiakiakazemy2001@gmail.com)
-
 ---
 
